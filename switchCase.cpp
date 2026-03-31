@@ -16,3 +16,9 @@ void input() {
     cout<< "Masukkan kode jurusan (1-3): ";
     cin>> kodeJurusan;
 }
+ //prosedur untuk pengecekan kondisi
+ void pilihanJurusan() {
+    switch (kodeJurusan) {
+        
+    }
+ }
